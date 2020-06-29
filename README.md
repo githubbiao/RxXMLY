@@ -1,4 +1,9 @@
-# RxSwift实现MVVM高仿喜马拉雅的函数响应式编程
+# 声明
+fork from `https://github.com/sessionCh/RxXMLY.git`
+项目使用 swift4 + MVVM + rxswift
+运行环境 Xcode12
+
+## RxSwift实现MVVM高仿喜马拉雅的函数响应式编程
 
 
 ### RxSwift 简介
